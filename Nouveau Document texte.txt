@@ -1,0 +1,50 @@
+Site Web à une seule page – Présentation du produit
+1. Sélection de la langue en haut de la page
+En haut de la page, un menu de sélection de la langue permettra aux utilisateurs de choisir la langue de leur choix. Les options disponibles seront :
+Anglais
+Français
+Russe
+Hébreu
+Ce menu sera accessible de manière simple et intuitive, sous forme de boutons ou d'icônes, avec les drapeaux des pays ou des abréviations (EN, FR, RU, HE). Lorsque l'utilisateur clique sur une langue, le contenu du site sera automatiquement traduit dans la langue sélectionnée.
+2. Texte de présentation du produit
+Introduction : Sous la sélection de la langue, tu trouveras un texte de présentation du produit, qui expliquera de manière claire et concise ce que le produit est, ses caractéristiques principales, ses avantages, et pourquoi il est unique.
+Exemple de contenu : "Découvrez notre produit innovant conçu pour ... Ce produit offre des fonctionnalités exceptionnelles comme ..."
+3. Intégration d'une vidéo du produit
+Une vidéo du produit sera intégrée à la page. La vidéo peut être hébergée sur une plateforme comme YouTube ou Vimeo pour une intégration facile.
+Elle pourrait être positionnée juste en dessous du texte de présentation pour donner une meilleure vue d'ensemble du produit en action.
+L’utilisateur pourra lire la vidéo directement sur la page, avec un lecteur simple et interactif.
+4. Bandeau de photos du produit avec défilement et zoom
+Un bandeau de photos sera mis en place, permettant d'afficher plusieurs images du produit. Ces images pourront être visualisées dans un carrousel (diaporama avec des flèches pour naviguer entre les photos).
+Interaction de zoom : Lorsqu'un utilisateur clique sur une image, elle s'agrandira pour permettre un aperçu détaillé du produit.
+Navigation avec des flèches à gauche et à droite permettra aux visiteurs de faire défiler les images facilement.
+5. Espace de contact par mail
+Un formulaire de contact sera intégré à la fin de la page, pour permettre aux utilisateurs d'envoyer des messages directement via l'email.
+Les champs du formulaire incluront :
+Nom
+Adresse e-mail
+Message
+Un bouton d'envoi permettra de soumettre le message, qui sera ensuite envoyé à une adresse e-mail définie (ex : contact@tonsite.com).
+6. Autres fonctionnalités
+Responsive design : Le site sera conçu pour être entièrement responsive, garantissant qu’il fonctionne aussi bien sur les ordinateurs, les tablettes, et les smartphones.
+Optimisation pour le SEO : Le contenu du site sera optimisé pour les moteurs de recherche, avec des titres, des descriptions, et des mots-clés adaptés à ton produit.
+Design attractif : Le design sera épuré, avec des couleurs et une typographie qui mettront en valeur ton produit. Des éléments visuels comme des icônes ou des animations légères peuvent aussi être intégrés pour rendre l'expérience utilisateur plus agréable.
+Structure de la page
+En-tête (Header)
+Logo
+Menu de sélection des langues
+Introduction
+Texte de présentation du produit
+Vidéo
+Intégration de la vidéo
+Carrousel de photos
+Images du produit avec possibilité de zoom et défilement
+Formulaire de contact
+Champs de contact avec un bouton d’envoi
+Pied de page (Footer)
+Liens vers les conditions d’utilisation, la politique de confidentialité, etc. (facultatif)
+Technologies à utiliser
+HTML/CSS pour la structure et le style de la page.
+JavaScript pour les interactions (comme le carrousel d’images et le zoom).
+Video Embed (YouTube/Vimeo) pour intégrer la vidéo.
+Formulaire de contact avec un script PHP ou un service de formulaire externe (comme Google Forms ou Formspree).
+Outils de traduction pour gérer les 4 langues (par exemple, WPML si tu utilises WordPress ou i18next pour un site custom).
